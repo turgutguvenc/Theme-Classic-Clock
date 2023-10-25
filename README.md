@@ -1,5 +1,5 @@
 # Theme-Classic-Clock
 Classic Theme clock project with Javascript, HTML and, CSS. 
-<img width="773" alt="image" src="https://github.com/turgutguvenc/Theme-Classic-Clock/assets/63226091/6ede987d-efff-4556-ba8c-e89fc7b19a0e">
+<img width="1910" alt="image" src="https://github.com/turgutguvenc/Theme-Classic-Clock/assets/63226091/c7c8924b-f678-4a66-8449-0e587bb1d7e2">
+<img width="1912" alt="image" src="https://github.com/turgutguvenc/Theme-Classic-Clock/assets/63226091/32aa3f4b-5459-4178-b888-a3da81e458c2">
 
-<img width="848" alt="image" src="https://github.com/turgutguvenc/Theme-Classic-Clock/assets/63226091/f52099b0-869e-4483-9964-dc228e5892b4">
